@@ -39,4 +39,4 @@ Se billedet for reference.
 
 Find link til din løsning på Netlify og aflever det på Fronter.
 
-Link-struktur: **no-classes--**[Dit unikke netlify link].netlify.app/
+Link-struktur: **no-classes--**[https://chimerical-sprite-236e8a.netlify.app/
