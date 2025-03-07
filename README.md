@@ -42,7 +42,7 @@ Sæt denne kode ind på det sted i HTML-dokumentet, hvor du vil have ikonet til 
 
 Find linket til din løsning på Netlify og aflever det på Fronter.
 
-Link-struktur: **citd-2--**[Dit unikke netlify link].netlify.app/
+Link-struktur: **citd-2--**[chimerical-sprite-236e8a.netlify.app
 
 ## Ressourcer
 
